@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My_Assignment</string>
+
+    <string name="facebook_app_id">643100773272931</string>
+    <string name="fb_login_protocol_scheme">fb643100773272931</string>
+    <string name="splash_screen_text">Welcome to Quantum IT Innovation</string>
+    <string name="developer_info">Developed by Suman Kumar</string>
+    <string name="quantum">Quantum IT Innovation is Welcoming You</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="passwordone">Password</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="login">Login</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="continue_with_facebook">Continue With Facebook</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="name">Name</string>
+    <string name="e_mail">E-Mail</string>
+    <string name="phone">Phone</string>
+    <string name="register">Register</string>
+    <string name="already_register_login">Already Register ? LogIn</string>
+
+</resources>
